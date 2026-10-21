@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-21",
-  "total": 962,
+  "total": 963,
   "platforms": [
     "codex",
     "grok",
@@ -12740,6 +12740,20 @@
       "installation_url": "https://github.com/programmer-1998/RTL_OpenCode#readme",
       "ecosystems": [
         "opencode"
+      ]
+    },
+    {
+      "name": "ppl",
+      "url": "https://github.com/ppl-crm/ppl-grok-plugin",
+      "owner": "ppl-crm",
+      "repo": "ppl-grok-plugin",
+      "description": "Connects Grok to ppl, a personal CRM for humans with AI agents, through its hosted MCP server at https://withppl.com/mcp (OAuth) for contacts, notes, reminders and relationship memory; free beta at https://withppl.com/register",
+      "category": "Grok Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "grok",
+      "install_url": "https://raw.githubusercontent.com/ppl-crm/ppl-grok-plugin/HEAD/.grok-plugin/plugin.json",
+      "ecosystems": [
+        "grok"
       ]
     }
   ]
